@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**SylerEdd/SylerEdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eddie, a software engineer based in Ireland.
 
-Here are some ideas to get you started:
+I mostly work on full-end stuff - Java, React, TypeScript, Tailwind, Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Figma for UI design and Procreate when I want to sketch ideas.
+
+---
+
+## Tools & Tech
+
+* Java, Python, JavaScript, TypeScript, Tailwind
+
+---
+
+## A Bit About Me
+
+* I like building things that are simple, useful, and easy to understand
+* I like to socialize with people and brainstorming ideas.
+* I don't drink alcohol or smoke.
+* LOVE Boardgames
