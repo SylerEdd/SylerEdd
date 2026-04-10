@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Eddie, a software engineer based in Ireland.
+I'm Eddie Idersaikhan, a software engineer based in Ireland.
 
 I mostly work on full-end stuff - Java, React, TypeScript, Tailwind, Python, Spring Boot.
 
