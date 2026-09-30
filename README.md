@@ -16,7 +16,7 @@ I also use Figma for UI design and Procreate when I want to sketch ideas.
 
 ## A Bit About Me
 
-* I like building things that are simple, useful, and easy to understand
+* I like building things for funf
 * I like to socialize with people and brainstorming ideas.
 * I don't drink alcohol or smoke.
 * I love sculpting and 3D printing
